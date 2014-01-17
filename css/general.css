@@ -1,0 +1,10 @@
+html {
+	min-width: 240px;
+	max-width: 600px;
+	font-family: Arial, Helvetica, sans-serif;
+	background: url(img/ricepaper.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
